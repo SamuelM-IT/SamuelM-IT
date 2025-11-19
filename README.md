@@ -5,13 +5,13 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  - [osTicket: Prerequisites and Installation](https://github.com/GeorgeOrtiz-IT/osTicket)
-  - [osTicket: Post-Installation Configuration](https://github.com/GeorgeOrtiz-IT/post-install-config)
-  - [osTicket: Ticket Lifestyle Examples](https://github.com/GeorgeOrtiz-IT/ticket-lifestyle) 
+  - [osTicket: Prerequisites and Installation](https://github.com/SamuelM-IT/osTicket)
+  - [osTicket: Post-Installation Configuration](https://github.com/SamuelM-IT/post-install-config)
+  - [osTicket: Ticket Lifestyle Examples](https://github.com/SamuelM-IT/ticket-lifestyle) 
 
 - <b>Microsoft Azure (Active Directory and Network Security)</b>
-  - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/GeorgeOrtiz-IT/azure)
-  - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/GeorgeOrtiz-IT/azure-network)
+  - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/SamuelM-IT/azure)
+  - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/SamuelM-IT/azure-network)
  
 - <b>Microsoft Azure (Creating VMs and How To Connect)</b>
   - [Creating VMs and Connecting With Remote Desktop](https://github.com/SamuelM-IT/azure-remote-connect)
