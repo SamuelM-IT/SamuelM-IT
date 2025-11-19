@@ -1,4 +1,4 @@
-<h1>Hi, I'm George <br/><a href="https://github.com/GeorgeOrtiz-IT">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/george-ortiz-55aa991b5//">Cybersecurity Student</a>
+<h1>Hi, I'm Samuel <br/><a href="https://github.com/GeorgeOrtiz-IT">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/george-ortiz-55aa991b5//">Cybersecurity Student</a>
 
 <h2>🖥️ IT Projects:</h2>
 
