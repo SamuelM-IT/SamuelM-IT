@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel <br/><a href="https://github.com/GeorgeOrtiz-IT">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/george-ortiz-55aa991b5//">Cybersecurity Student</a>
+<h1>Hi, I'm Samuel <br/><a >IT Enthusiast</a>, <a >Cybersecurity Student</a>
 
 <h2>🖥️ IT Projects:</h2>
 
@@ -28,7 +28,7 @@
 
 <h2>🌎 Connect with me:</h2>
 
-[<img align="left" alt="GeorgeOrtiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SamuelMarquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/samuel-marquez-tech/
