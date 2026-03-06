@@ -15,7 +15,10 @@
  
 - <b>Microsoft Azure (Creating VMs and How To Connect)</b>
   - [Creating VMs and Connecting With Remote Desktop](https://github.com/SamuelM-IT/azure-remote-connect)
-  
+ 
+- <b>Shaw Dozukis/SOPs (Stretch Assignment)</b>v
+ - Create standard operating procedures for department(https://github.com/SamuelM-IT/Shaw-Dozukis-SOPs-Stretch-Assignment)
+
  <h2>📚 Certifications:</h2>
  
 - <b>CompTIA A+ In Progress</b>
@@ -26,6 +29,7 @@
 - <b>CCNA: Enterprise Networking, Security, and Automation | Completed July 2025</b>
 
 
+- 
 <h2>🌎 Connect with me:</h2>
 
 [<img align="left" alt="SamuelMarquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
