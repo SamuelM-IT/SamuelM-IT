@@ -18,7 +18,6 @@
  
 - <b>Shaw Dozukis/SOPs (Stretch Assignment)</b>v
  - Create standard operating procedures for department(https://github.com/SamuelM-IT/Shaw-Dozukis-SOPs-Stretch-Assignment)
-
  <h2>📚 Certifications:</h2>
  
 - <b>CompTIA A+ In Progress</b>
