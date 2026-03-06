@@ -14,7 +14,7 @@
   - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/SamuelM-IT/azure-network)
  
 - <b>Microsoft Azure (Creating VMs and How To Connect)</b>
-  - [Creating VMs and Connecting With Remote Desktop](https://github.com/SamuelM-IT/Shaw-Dozukis-SOPs-Stretch-Assignment-)
+  - [Creating VMs and Connecting With Remote Desktop](https://github.com/SamuelM-IT/Shaw-Dozukis-SOPs-Stretch-Assignment)
  
 - <b>Shaw Dozukis/SOPs (Stretch Assignment)</b>v
  - Create standard operating procedures for department(https://github.com/SamuelM-IT/Shaw-Dozukis-SOPs-Stretch-Assignment)
