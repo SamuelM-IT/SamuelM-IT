@@ -25,11 +25,10 @@
 
 <h2>🏫 Education:</h2>
 
-- <b>Cybersecurity Associate of Applied Science Degree | Expected Graduation Date: May 2026</b>
+- <b>Cybersecurity Associate of Applied Science Degree | Graduation Date: May 2026</b>
 - <b>CCNA: Enterprise Networking, Security, and Automation | Completed July 2025</b>
 
-
-- 
+ 
 <h2>🌎 Connect with me:</h2>
 
 [<img align="left" alt="SamuelMarquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
