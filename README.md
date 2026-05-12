@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel <br/><a >IT Enthusiast</a>, <a href="https://www.linkedin.com/in/samuel-marquez-tech/">Cybersecurity Student</a>
+<h1>Hi, I'm Samuel <br/><a >IT Enthusiast</a>, <a href="https://www.linkedin.com/in/samuel-marquez-tech/">Cybersecurity Graduate</a>
 
 <h2>🖥️ IT Projects:</h2>
 
